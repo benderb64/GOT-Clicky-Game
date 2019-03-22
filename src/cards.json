@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/khal_drogo.jpg",
+      "character": "Khal Drogo",
+      "title": "The Dothraki",
+      "from": "Essos"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/jon_snow.jpg",
+      "character": "Jon Snow",
+      "title": "House Stark",
+      "from": "Wintefell"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/daenerys_targaryen.jpg",
+      "character": "Daenerys Targaryen",
+      "title": "House Targaryen",
+      "from": "Dragonstone"
+  
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/gregor_clegane.jpg",
+      "character": "Gregor Clegane",
+      "title": "House Clegane",
+      "from": "Casterly Rock"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/podrick_payne.jpg",
+      "character": "Podrick Payne",
+      "title": "House Payne",
+      "from": "Casterly Rock"
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/joffrey_baratheon.jpg",
+      "character": "Joffrey Baratheon",
+      "title": "House Lannister",
+      "from": "King's Landing"
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/sandor_clegane.jpg",
+      "character": "Sandor Clegane",
+      "title": "House Clegane",
+      "from": "Casterly Rock"
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/tyrion_lannister.jpg",
+      "character": "Tyrion Lannister",
+      "title": "House Lannister",
+      "from": "Casterly Rock"
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/stannis_baratheon.jpg",
+      "character": "Stannis Baratheon",
+      "title": "House Baratheon",
+      "from": "Storm's End"
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/arya_stark.jpg",
+      "character": "Arya Stark",
+      "title": "House Stark",
+      "from": "Winterfell"
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/cersei_lannister.jpg",
+      "character": "Cersei Lannister",
+      "title": "House Lannister",
+      "from": "Casterly Rock"
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/ramsay_bolton.jpg",
+      "character": "Ramsay Bolton",
+      "title": "House Bolton",
+      "from": "Dreadfort"
+    },
+    {
+      "id": 13,
+      "image": "/assets/images/petyr_baelish.jpg",
+      "character": "Petyr Baelish",
+      "title": "Baelish Castle",
+      "from": "The Vale"
+    },
+    {
+      "id": 14,
+      "image": "/assets/images/melisandre.jpg",
+      "character": "Melisandre",
+      "title": "The Red Priestesses",
+      "from": "Asshai"
+    },
+    {
+      "id": 15,
+      "image": "/assets/images/daario_naharis.jpg",
+      "character": "Daario Naharis",
+      "title": "The Second Sons",
+      "from": "Free Cities"
+    },
+    {
+      "id": 16,
+      "image": "/assets/images/oberyn_martell.jpg",
+      "character": "Oberyn Martell",
+      "title": "House Martell",
+      "from": "Sunspear"
+    },
+    {
+      "id": 17,
+      "image": "/assets/images/theon_greyjoy.jpg",
+      "character": "Theon Greyjoy",
+      "title": "House Greyjoy",
+      "from": "Pyke"
+    },
+    {
+      "id": 18,
+      "image": "/assets/images/jorah_mormont.jpg",
+      "character": "Jorah Mormont",
+      "title": "House Mormont",
+      "from": "Bear Island"
+    },
+    {
+      "id": 19,
+      "image": "/assets/images/brienne_of_tarth.jpg",
+      "character": "Brienne",
+      "title": "House Tarth",
+      "from": "the island of Tarth"
+    },
+    {
+      "id": 20,
+      "image": "/assets/images/bronn.jpg",
+      "character": "Bronn",
+      "title": "The City Watch",
+      "from": "Westeros"
+    },
+    {
+      "id": 21,
+      "image": "/assets/images/margaery_tyrell.jpg",
+      "character": "Margaery Tyrell",
+      "title": "House Tyrell",
+      "from": "Highgarden"
+    },
+    {
+      "id": 22,
+      "image": "/assets/images/sansa_stark.jpg",
+      "character": "Sansa Stark",
+      "title": "House Stark",
+      "from": "Winterfell"
+    },
+    {
+      "id": 23,
+      "image": "/assets/images/jaime_lannister.jpg",
+      "character": "Jamie Lannister",
+      "title": "House Lannister",
+      "from": "Casterly Rock"
+    },
+    {
+      "id": 24,
+      "image": "/assets/images/davos_seaworth.jpg",
+      "character": "Davos Seaworth",
+      "title": "House Seaworth",
+      "from": "King's Landing"
+    }
+  ]
+
+  

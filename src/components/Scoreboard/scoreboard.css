@@ -1,0 +1,114 @@
+h6 {
+  color: white;
+  background-color: black;
+  display: inline;
+  cursor: default;
+}
+
+h5 {
+  font-size: 2.5em;
+  color: black;
+  background-color: white;
+  display: inline;
+  cursor: default;
+}
+
+h5:hover {
+  color: white;
+  background-color: black;
+  display: inline;
+}
+
+h6:hover {
+  color: #fff;
+  background-color: red;
+  display: inline;
+}
+
+.scoreB {
+  margin-bottom: 10px;
+}
+
+.col-left {
+  font-family: "Major Mono Display", monospace;
+  text-align: left;
+}
+
+.col-right {
+  font-family: "Noto Serif SC", serif;
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 40px;
+}
+
+.alert-danger {
+  font-family: "Noto Serif SC", serif;
+  text-transform: uppercase;
+  color: #fff;
+  /* display: inline; */
+  background-color: red !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+  /* margin: auto; */
+}
+
+.alert-danger:hover {
+  color: #fff;
+  background-color: #000 !important;
+}
+
+.alert-success {
+  font-family: "Noto Serif SC", serif;
+  text-transform: uppercase;
+  color: #fff;
+  /* display: inline; */
+  background-color: blue !important;
+  border-radius: 0 !important;
+  border-color: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  cursor: default;
+}
+
+.alert-success:hover {
+  color: #fff;
+  background-color: #000 !important;
+}
+
+#root {
+  background-image: url("/assets/images/westeros_background.jpg");
+  background-color: #dddddd;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: -30px;
+}
+iframe {
+  width: 100%;
+  height: 0px;
+  background-color: #fff;
+}
+.footer {
+  font-family: "Noto Serif SC", serif;
+  background-color: #000;
+  color: #fff;
+  text-align: right;
+  /* height: 400px; */
+}
+.footer:hover {
+  background-color: #fff;
+  color:red;
+}
+.footer a {
+  color: #fff;
+}
+.footer a:hover {
+  color:red;
+  text-decoration: none;
+}
