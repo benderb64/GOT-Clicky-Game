@@ -7,4 +7,6 @@ A super fun React Application to test a user's memory. Click on images in an att
   <li>Bootstrap</li>
 </ul>  
 
+![Image description](https://github.com/benderb64/Bamazon/blob/master/images/Item_Prompt.PNG)
+
 <a href="https://got-clicky-game.herokuapp.com/" target="_top">Live Site</a>
